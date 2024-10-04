@@ -3,6 +3,8 @@
 ## Ikuti tabel dibawah
 ![Preview](img/contoh.png)
 
-Kerangka HTML, CSS dan gambar sudah dibuat, silahkan coba edit sesuai gambar di atas
+### 1. Sesuaikan tampilan: 
+Ubahlah elemen-elemen dalam halaman web tersebut agar sesuai persis dengan desain yang telah disediakan pada gambar.
 
-Lalu coba percantik perpaduan warna Tabel sehingga enak dilihat
+### 2. Perbaiki tampilan tabel: 
+Lakukan penyesuaian warna dan gaya pada tabel sehingga tampilannya lebih menarik dan mudah dibaca.
